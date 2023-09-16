@@ -1,8 +1,10 @@
 # Hello Ya! This is Nay Htet Kyaw. AKA Anascence 👋
 <div style="display: flex;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayHtetKyaw&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayHtetKyaw&layout=compact)
 </div>
 
 
