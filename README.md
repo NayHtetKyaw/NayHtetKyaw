@@ -1,5 +1,5 @@
 # Hello Ya! This is Nay Htet Kyaw. AKA Anascence 👋
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
   
