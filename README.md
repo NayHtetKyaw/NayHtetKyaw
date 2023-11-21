@@ -1,4 +1,4 @@
-# 「YaHoo」～ This is Nay Htet Kyaw. 👋
+# 「YaHoo」～ This is Nay Htet Kyaw 👋
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
   
