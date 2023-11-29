@@ -7,4 +7,4 @@
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayHtetKyaw&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayHtetKyaw&layout=donut)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayHtetKyaw&layout=donut)
