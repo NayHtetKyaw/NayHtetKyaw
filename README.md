@@ -8,7 +8,8 @@
 
 > - Email : [nayhtetkyaw.dev@gmail.com] <br>
 > - Telegram : [[t.me/nayhtetkyaw](https://t.me/nayhtetkyaw)] <br>
-> - LinkedIn : [[LinkedIn](https://www.linkedin.com/in/nay-htet-kyaw-0363bb1a3/)]
+> - LinkedIn : [[LinkedIn](https://www.linkedin.com/in/nay-htet-kyaw-0363bb1a3/)] <br>
+> - Portfolio : [[nayhtetkyaw.me](https://nayhtetkyaw.me)]
 
  ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
   
