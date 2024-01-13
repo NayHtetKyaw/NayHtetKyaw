@@ -1,6 +1,15 @@
 # 「YaHoo」～ This is Nay Htet Kyaw 👋
-> A senior software engineering student @STIU Bangkok
-> Aiming to be a full-stack Web Dev
+> -  A senior software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
+> -  Aiming to be a full-stack Web Dev <br>
+> -  Favorite Programming Language is **JavaScript / Php** <br>
+> -  Passionate about **Japanese Language & Culture** <br>
+
+## How to reach me :
+
+> - Email : [nayhtetkyaw.dev@gmail.com] <br>
+> - Telegram : [t.me/nayhtetkyaw](t.me/nayhtetkyaw) <br>
+> - LinkedIn : [LinkedIn](https://www.linkedin.com/in/nay-htet-kyaw-0363bb1a3/)
+
  ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
   
 ### Technologies That I'm Interested In :
