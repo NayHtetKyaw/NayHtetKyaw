@@ -1,6 +1,6 @@
 # 「YaHoo」～ This is Nay Htet Kyaw 👋
 
-## A senior software engineering student @STIU Bangkok
+  A senior software engineering student @STIU Bangkok
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetKyaw&show_icons=true&theme=radical)
   
 ### Technologies That I'm Interested In :
