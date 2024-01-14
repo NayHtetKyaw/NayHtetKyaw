@@ -3,8 +3,9 @@
 > -  Aiming to be a full-stack Web Dev <br>
 > -  Favorite Programming Language is **JavaScript / Php** <br>
 > -  Passionate about **Japanese Language & Culture** <br>
+> -  Burmese | Lives in Bangkok
 
-### Looking forward to collaborate on Projects such as : 
+### Looking forward to collaborating on Projects such as : 
 
 > * React / NextJs / NodeJs / Redis ...
 
