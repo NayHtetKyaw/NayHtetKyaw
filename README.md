@@ -1,3 +1,7 @@
+
+![Coding Pixel (2)](https://github.com/NayHtetKyaw/NayHtetKyaw/assets/58430236/3c0b9b20-02ed-41bf-9a19-7a4071c0aa61)
+
+
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋
 > -  A senior software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
