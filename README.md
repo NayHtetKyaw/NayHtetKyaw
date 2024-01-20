@@ -1,7 +1,4 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋
-
-![Coding Pixel (2)](https://github.com/NayHtetKyaw/NayHtetKyaw/assets/58430236/9ccee986-950c-464e-a070-820152a774c9)
-
 > -  A senior software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
 > -  Favorite Programming Language is **JavaScript / Php** <br>
