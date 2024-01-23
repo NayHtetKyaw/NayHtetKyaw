@@ -1,3 +1,6 @@
+![39d5c848050dbe42f1a918bf1c2209bef3c46c51](https://github.com/NayHtetKyaw/NayHtetKyaw/assets/58430236/e7a29788-d27b-42af-bdad-e26300b342e2)
+
+
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋
 > -  A senior software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
