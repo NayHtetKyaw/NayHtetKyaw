@@ -1,5 +1,5 @@
-<div style="display:flex; justify-content:center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscuss.codechef.com%2Ft%2Fcompetitive-programming-helper-is-looking-for-a-maintainer-and-a-big-thank-you-to-the-users%2F106510&psig=AOvVaw1KuF2okxF4P-eBTpxnmIKP&ust=1706111680051000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjB47fv84MDFQAAAAAdAAAAABAD">
+<div align="center">
+  <img src="https://codeforces.com/predownloaded/39/d5/39d5c848050dbe42f1a918bf1c2209bef3c46c51.png">
 </div>
 
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋
