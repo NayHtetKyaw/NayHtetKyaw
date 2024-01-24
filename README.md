@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://codeforces.com/predownloaded/39/d5/39d5c848050dbe42f1a918bf1c2209bef3c46c51.png">
-</div>
-
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋
 > -  A senior software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
