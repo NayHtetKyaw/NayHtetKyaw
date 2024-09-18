@@ -1,7 +1,7 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
 > -  A software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
-> -  Favorite Programming Language is **JavaScript / Php / Typescript** <br>
+> -  Favorite Programming Language is **JavaScript / Typescript** <br>
 > -  Passionate about **Japanese Language & Culture** <br>
 > -  Burmese | Lives in Bangkok
 
