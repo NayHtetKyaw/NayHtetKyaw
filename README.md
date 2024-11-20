@@ -1,13 +1,13 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
 > -  A software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
 > -  Aiming to be a full-stack Web Dev <br>
-> -  Favorite Programming Language is **JavaScript / Typescript** <br>
+> -  Favorite Programming Language is **JavaScript / Typescript / Go** <br>
 > -  Passionate about **Japanese Language & Culture** <br>
 > -  Burmese | Lives in Bangkok
 
 ### Looking forward to collaborating on Projects such as : 
 
-> * React / NextJs / NodeJs / Redis ...
+> * React / NextJs / NodeJs / Redis / Go
 
 ## How to reach me :
 
