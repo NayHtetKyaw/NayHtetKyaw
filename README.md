@@ -1,16 +1,10 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
-<div>
-  <div>
-    > -  A software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
-    > -  Aiming to be a full-stack Web Dev <br>
-    > -  Favorite Programming Language is **JavaScript / Typescript / Go** <br>
-    > -  Passionate about **Japanese Language & Culture** <br>
-    > -  Burmese | Lives in Bangkok
-  </div>
-  <div>
-    <image src="C:\Users\nayht\OneDrive\Pictures\resources\guitar-amp-electric-guitar.gif" alt="miku dancing"/>
-  </div>
-</div>
+> -  A software engineering student at [STIU](https://www.stamford.edu/) Bangkok <br>
+> -  Aiming to be a full-stack Web Dev <br>
+> -  Favorite Programming Language is **JavaScript / Typescript / Go** <br>
+> -  Passionate about **Japanese Language & Culture** <br>
+> -  Burmese | Lives in Bangkok
+[Alt text](C:\Users\nayht\OneDrive\Pictures\resources\guitar-amp-electric-guitar.gif)
 
 ### Looking forward to collaborating on Projects such as : 
 
