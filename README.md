@@ -4,7 +4,7 @@
 > -  Favorite Programming Language is **JavaScript / Typescript / Go** <br>
 > -  Passionate about **Japanese Language & Culture** <br>
 > -  Burmese | Lives in Bangkok
-[Alt text](C:\Users\nayht\OneDrive\Pictures\resources\guitar-amp-electric-guitar.gif)
+[Alt text](./assets/guitar-amp-electric-guitar.gif)
 
 ### Looking forward to collaborating on Projects such as : 
 
