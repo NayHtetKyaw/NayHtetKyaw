@@ -1,7 +1,7 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
 > -  A software engineering student at [STIU](https://www.stamford.edu/) <br>                                                        
 > -  Aiming to be a full-stack Web Dev <br>
-> -  Currently Working at @ Issa Compass<br>
+> -  Currently Working at as Intern @ Issa Compass<br>
 > -  Lives in Bangkok
 
 ### Looking forward to collaborating on Projects such as : 
