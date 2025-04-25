@@ -2,6 +2,7 @@
 > -  A software engineering student at [STIU](https://www.stamford.edu/) <br>                                                        
 > -  Aiming to be a full-stack Web Dev <br>
 > -  Currently Working at as Intern @ Issa Compass<br>
+> -  Maintainer @ [Syanford Syntax Club](https://github.com/stamford-syntax-club) <br>
 > -  Lives in Bangkok
 
 - Looking forward to collaborate on any projects 🚀
