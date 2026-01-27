@@ -1,5 +1,5 @@
 # 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
-> -  A software engineering student at [STIU](https://www.stamford.edu/) <br>                                                        
+> -  Graduated software engineering student of [STIU](https://www.stamford.edu/) <br>                                                        
 > -  Aiming to be a full-stack Web Dev <br>
 > -  Currently Working at @ Issa Compass<br>
 > -  Maintainer @ [Syanford Syntax Club](https://github.com/stamford-syntax-club) <br>
