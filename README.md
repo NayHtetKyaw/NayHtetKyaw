@@ -1,4 +1,4 @@
-# 「YaHoo」～ This is < Nay Htet Kyaw /> 👋🏻 
+# 「YaHoo」～ This is Nay Htet Kyaw 👋🏻 
 
 > -  Aiming to be a full-stack Web Dev <br>
 > -  Currently Working at @ Issa Compass<br>
